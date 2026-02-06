@@ -15,7 +15,7 @@ Cloud Computing, modern web frameworks, and intelligent automation.
 💻 Experienced in full-stack development with React, Laravel, and Symfony<br>
 ☁️ Strong interest in Cloud infrastructure, OpenStack, Kubernetes, and distributed systems<br>
 🤖 Integrating AI solutions into enterprise platforms (Odoo, dashboards, automation)<br>
-⚙️ Hands-on with Docker, virtualization, and DevOps practices<br><br>
+⚙️ Hands-on with Docker, virtualization, and system administration<br><br>
 🌐 Portfolio: <a href="https://ezer-abrougui.vercel.app/">ezer-abrougui.vercel.app</a><br>
 💼 LinkedIn: <a href="https://www.linkedin.com/in/ezer-abrougui-149623228/">Ezer Abrougui</a><br>
 📫 Contact: <b>Ezer.Abrougui@esprit.tn</b>
@@ -45,7 +45,7 @@ Cloud Computing, modern web frameworks, and intelligent automation.
 I enjoy working on projects that combine:
 <br><br>
 ✅ Modern web development (React, Laravel, Symfony)<br>
-✅ Cloud infrastructure & DevOps practices<br>
+✅ Cloud infrastructure & automation<br>
 ✅ AI-powered automation and intelligent systems<br>
 ✅ Enterprise solutions with Odoo<br>
 ✅ Scalable and secure architectures<br><br>
@@ -90,6 +90,8 @@ I'm always open to learning, collaborating, and contributing to impactful projec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 </div>
 
 ###
@@ -99,8 +101,8 @@ I'm always open to learning, collaborating, and contributing to impactful projec
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezerabrougui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ezerabrougui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EzerAbrougui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=10" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EzerAbrougui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="languages graph"  />
 </div>
 
 ###
@@ -110,14 +112,14 @@ I'm always open to learning, collaborating, and contributing to impactful projec
 ###
 
 <p align="left">
-If you're interested in Cloud, DevOps, full-stack development, or AI-powered solutions, feel free to reach out!<br>
+If you're interested in Cloud, full-stack development, or AI-powered solutions, feel free to reach out!<br>
 I'm always happy to collaborate on exciting projects or discuss new technologies.
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ezerabrougui/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=EzerAbrougui&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
 </div>
 
 ###
