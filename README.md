@@ -44,11 +44,11 @@ Cloud Computing, modern web frameworks, and intelligent automation.
 <p align="left">
 I enjoy working on projects that combine:
 <br><br>
-Modern web development (React, Laravel, Symfony)<br>
-Cloud infrastructure & automation (OpenStack, Kubernetes, Ansible)<br>
-AI-powered automation and intelligent systems<br>
-Enterprise solutions and business automation<br>
-Scalable and secure distributed architectures<br><br>
+- Modern web development (React, Laravel, Symfony)<br>
+- Cloud infrastructure & automation (OpenStack, Kubernetes, Ansible)<br>
+- AI-powered automation and intelligent systems<br>
+- Enterprise solutions and business automation<br>
+- Scalable and secure distributed architectures<br><br>
 I'm always open to learning, collaborating, and contributing to impactful projects.
 </p>
 
