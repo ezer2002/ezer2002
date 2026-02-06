@@ -14,8 +14,8 @@ Cloud Computing, modern web frameworks, and intelligent automation.
 <br><br>
 💻 Experienced in full-stack development with React, Laravel, and Symfony<br>
 ☁️ Strong interest in Cloud infrastructure, OpenStack, Kubernetes, and distributed systems<br>
-🤖 Integrating AI solutions into enterprise platforms (Odoo, dashboards, automation)<br>
-⚙️ Hands-on with Docker, virtualization, and system administration<br><br>
+🤖 AI integration experience with enterprise platforms (Odoo dashboards, automation)<br>
+⚙️ Hands-on with Docker, Ansible, virtualization, and infrastructure automation<br><br>
 🌐 Portfolio: <a href="https://ezer-abrougui.vercel.app/">ezer-abrougui.vercel.app</a><br>
 💼 LinkedIn: <a href="https://www.linkedin.com/in/ezer-abrougui-149623228/">Ezer Abrougui</a><br>
 📫 Contact: <b>Ezer.Abrougui@esprit.tn</b>
@@ -28,11 +28,11 @@ Cloud Computing, modern web frameworks, and intelligent automation.
 ###
 
 <p align="left">
-- Building intelligent Odoo dashboards with AI integration<br>
-- Designing private cloud infrastructure with OpenStack & Kubernetes<br>
-- Developing full-stack applications using React, Laravel & Symfony<br>
-- Automating infrastructure provisioning with Ansible<br>
-- Exploring AI-powered solutions for business automation<br>
+- Designing and deploying private cloud infrastructure with OpenStack<br>
+- Orchestrating containerized applications with Kubernetes<br>
+- Automating infrastructure provisioning using Ansible<br>
+- Building and managing distributed systems with Docker<br>
+- Developing scalable cloud-native architectures<br>
 </p>
 
 ###
@@ -44,11 +44,11 @@ Cloud Computing, modern web frameworks, and intelligent automation.
 <p align="left">
 I enjoy working on projects that combine:
 <br><br>
-✅ Modern web development (React, Laravel, Symfony)<br>
-✅ Cloud infrastructure & automation<br>
-✅ AI-powered automation and intelligent systems<br>
-✅ Enterprise solutions with Odoo<br>
-✅ Scalable and secure architectures<br><br>
+Modern web development (React, Laravel, Symfony)<br>
+Cloud infrastructure & automation (OpenStack, Kubernetes, Ansible)<br>
+AI-powered automation and intelligent systems<br>
+Enterprise solutions and business automation<br>
+Scalable and secure distributed architectures<br><br>
 I'm always open to learning, collaborating, and contributing to impactful projects.
 </p>
 
@@ -75,6 +75,8 @@ I'm always open to learning, collaborating, and contributing to impactful projec
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -90,19 +92,6 @@ I'm always open to learning, collaborating, and contributing to impactful projec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-</div>
-
-###
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EzerAbrougui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=10" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EzerAbrougui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="languages graph"  />
 </div>
 
 ###
@@ -112,14 +101,8 @@ I'm always open to learning, collaborating, and contributing to impactful projec
 ###
 
 <p align="left">
-If you're interested in Cloud, full-stack development, or AI-powered solutions, feel free to reach out!<br>
+If you're interested in Cloud infrastructure, full-stack development, or AI-powered solutions, feel free to reach out!<br>
 I'm always happy to collaborate on exciting projects or discuss new technologies.
 </p>
-
-###
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EzerAbrougui&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
-</div>
 
 ###
