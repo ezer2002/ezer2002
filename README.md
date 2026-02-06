@@ -1,51 +1,130 @@
-<h1 align="left">Hi there, I'm Ezer Abrougui 👋</h1>
+<h1 align="center">Hi 👋, I'm Ezer Abrougui</h1>
+<h3 align="center">Cloud Computing & Software Engineering Student | DevOps • OpenStack • Kubernetes • AI Automation</h3>
 
-###
+---
 
-<p align="left"></p>
+<p align="center">
+  🚀 Passionate about building scalable Cloud infrastructures, intelligent automation, and modern web solutions.
+</p>
 
-###
+<p align="center">
+  <a href="https://ezer-abrougui.vercel.app/" target="_blank">
+    🌐 Portfolio
+  </a>
+  •
+  <a href="https://www.linkedin.com/in/ezer-abrougui-149623228/" target="_blank">
+    💼 LinkedIn
+  </a>
+  •
+  <a href="mailto:Ezer.Abrougui@esprit.tn">
+    📩 Email
+  </a>
+</p>
 
-<h2 align="center">Passionate about building scalable solutions in AI, Cloud Computing, and Web Development.</h2>
+---
 
-###
+## 🌟 About Me
 
-<p align="left">I'm a software engineer specializing in Cloud Computing, Odoo development, and AI technologies. Passionate about building scalable and efficient systems that solve real-world challenges.<br><br>🔭 Currently focused on integrating AI solutions into Cloud environments and enhancing business automation with Odoo.<br>👯 Looking to collaborate on innovative projects in Cloud Computing, AI, and Odoo.<br>📫 Reach me at: Ezer.Abrougui@esprit.tn</p>
+<p align="left">
+I'm a <b>Cloud Computing & Software Engineering student</b> at ESPRIT, with strong foundations in 
+<b>Cloud Infrastructure, System Administration, DevOps automation, and AI-powered applications</b>.
 
-###
+I enjoy designing solutions that are:
+</p>
 
-<h2 align="left">I code with</h2>
+<ul>
+  <li>⚡ Scalable & distributed</li>
+  <li>🔐 Secure & reliable</li>
+  <li>☁️ Cloud-native and automated</li>
+</ul>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/symfony/000000" height="40" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+## 🔭 What I’m Currently Working On
+
+- ☁️ Deploying a private Cloud platform using **OpenStack (IaaS)**  
+- ⚙️ Automating provisioning with **Ansible & Heat orchestration**  
+- 🚢 Running SaaS workloads with **Docker & Kubernetes**  
+- 🤖 Integrating AI features into business platforms like **Odoo.sh**  
+
+---
+
+## 💼 Experience Highlights
+
+- **Odoo AI Dashboards Internship** @ Binit Nearshore Services  
+  → Smart dashboards + deployment with CI/CD on Odoo.sh  
+
+- **Private Cloud Academic Project**  
+  → Multi-node OpenStack infrastructure + Kubernetes orchestration  
+
+- **Full-stack Software Engineering Projects**  
+  → Laravel • React • Symfony • Mobile Apps  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### ☁️ Cloud & DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" height="45"/>
+
+---
+
+### 💻 Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+<img width="12"/>
+<img src="https://cdn.simpleicons.org/laravel/FF2D20" height="45"/>
+<img width="12"/>
+<img src="https://cdn.simpleicons.org/symfony/000000" height="45"/>
+
+---
+
+### 🗄️ Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+<img width="12"/>
+<img src="https://cdn.simpleicons.org/mongodb/47A248" height="45"/>
+
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EzerAbrougui&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EzerAbrougui&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+📌 I’m always open to collaborating on:
+
+- Cloud Infrastructure & DevOps Projects  
+- OpenStack / Kubernetes Deployments  
+- AI + Automation for Business Platforms  
+- Scalable SaaS Systems  
+
+🌐 Portfolio: https://ezer-abrougui.vercel.app/  
+💼 LinkedIn: https://www.linkedin.com/in/ezer-abrougui-149623228/  
+📩 Email: Ezer.Abrougui@esprit.tn  
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
