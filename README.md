@@ -2,7 +2,7 @@
 
 # Ezer Abrougui 👋
 
-**Cloud & DevOps Engineering Student | Kubernetes · OpenStack · GenAI (N8N)**
+**Cloud & DevOps Engineering Student | Kubernetes · OpenStack · N8N | React · Laravel | Scalable Cloud Systems**
 
 </div>
 
